@@ -1,0 +1,13 @@
+title: Red Panda Life
+description: Technology, faith, outdoors, and the projects that make everyday life better.
+url: "https://redpandoralife.github.io"
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

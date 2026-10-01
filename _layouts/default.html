@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="site-shell">
+      <aside class="sidebar">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Red Panda Life home">
+          <span class="brand-mark">RP</span>
+          <span>
+            <strong>Red Panda Life</strong>
+            <small>Notes from the journey</small>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Main navigation">
+          <p class="nav-label">Explore</p>
+          <a class="nav-link{% if page.url == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}">
+            <span class="nav-icon">⌂</span> Home
+          </a>
+          <a class="nav-link{% if page.url == '/projects/' %} is-active{% endif %}" href="{{ '/projects/' | relative_url }}">
+            <span class="nav-icon">✦</span> Projects
+          </a>
+          <a class="nav-link{% if page.url == '/articles/' %} is-active{% endif %}" href="{{ '/articles/' | relative_url }}">
+            <span class="nav-icon">▤</span> Articles
+          </a>
+          <a class="nav-link{% if page.url == '/christian/' %} is-active{% endif %}" href="{{ '/christian/' | relative_url }}">
+            <span class="nav-icon">✚</span> Christian life
+          </a>
+          <a class="nav-link{% if page.url == '/confession/' %} is-active{% endif %}" href="{{ '/confession/' | relative_url }}">
+            <span class="nav-icon">◈</span> Baptist Confession of Faith
+          </a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <span class="status-dot"></span>
+          <span>Built in New Zealand</span>
+        </div>
+      </aside>
+
+      <main class="content">
+        <div class="content-inner">
+          {{ content }}
+        </div>
+        <footer class="site-footer">
+          <span>Red Panda Life</span>
+          <span>Technology · Faith · Outdoors</span>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>
