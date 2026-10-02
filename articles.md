@@ -12,13 +12,9 @@ description: Notes on technology, faith, and the shape of an ordinary life.
 
 <div class="card-grid">
   <article class="card">
-    <p class="section-kicker">Coming soon</p>
-    <h3>Technology as a servant</h3>
-    <p>How tools can support attention and responsibility without becoming the centre of life.</p>
-  </article>
-  <article class="card">
-    <p class="section-kicker">Coming soon</p>
-    <h3>Building for ordinary days</h3>
-    <p>Why the best personal software often starts with a small, persistent annoyance.</p>
+    <p class="section-kicker">Development</p>
+    <h3>The Power of Luna</h3>
+    <p>Why a modest model has become my default tool for building software, and why planning still matters more than model size.</p>
+    <a class="card-link" href="{{ '/luna/' | relative_url }}">Read the article</a>
   </article>
 </div>

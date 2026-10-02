@@ -21,14 +21,5 @@ description: A few of the tools and experiments I have made for everyday life.
     <h3>Fitness stats</h3>
     <p>Tools for collecting and understanding training data, so progress is something to notice rather than guess at.</p>
   </article>
-  <article class="card">
-    <p class="section-kicker">Exploration</p>
-    <h3>AI experiments</h3>
-    <p>Small experiments in using AI as a thoughtful assistant for research, personal knowledge, and everyday decisions.</p>
-  </article>
-  <article class="card">
-    <p class="section-kicker">Coming together</p>
-    <h3>Life systems</h3>
-    <p>An ongoing attempt to connect planning, health, learning, and reflection without turning life into a spreadsheet.</p>
-  </article>
+
 </div>

@@ -10,10 +10,6 @@ description: A personal reference to the historic Baptist confession of faith.
   <p class="lead">The Second London Baptist Confession of Faith (1689) is a historic summary of Christian doctrine that has helped shape Baptist teaching and practice.</p>
 </div>
 
-<div class="prose">
-  <h2>Why it matters</h2>
-  <p>A confession is not a replacement for Scripture. It is a careful attempt by a community of Christians to say clearly what they understand Scripture to teach. It gives language to shared convictions and a framework for faithful practice.</p>
-
   <h2>The chapters</h2>
   <ul>
     <li>The Holy Scriptures</li>
@@ -37,5 +33,4 @@ description: A personal reference to the historic Baptist confession of faith.
     <li>Of the Last Judgment</li>
   </ul>
 
-  <p>This page is a guide and reference point. For the complete text, consult a published edition of the confession alongside the biblical references that accompany it.</p>
 </div>
