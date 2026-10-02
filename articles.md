@@ -13,8 +13,14 @@ description: Notes on technology, faith, and the shape of an ordinary life.
 <div class="card-grid">
   <article class="card">
     <p class="section-kicker">Development</p>
-    <h3>The Power of Luna</h3>
+    <h3>The Power of GPT-5.6 Luna</h3>
     <p>Why a modest model has become my default tool for building software, and why planning still matters more than model size.</p>
-    <a class="card-link" href="{{ '/luna/' | relative_url }}">Read the article</a>
+    <a class="card-link" href="{{ '/luna/' | relative_url }}">Read about GPT-5.6 Luna</a>
+  </article>
+  <article class="card">
+    <p class="section-kicker">Planning</p>
+    <h3>Planning my everyday tasks</h3>
+    <p>How LifePlanner turns Markdown notes into a simple, printable weekly calendar for everyday life.</p>
+    <a class="card-link" href="{{ '/lifeplanner/' | relative_url }}">Read about LifePlanner</a>
   </article>
 </div>
