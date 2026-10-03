@@ -1,6 +1,6 @@
 # RedPandora Life
 
-A personal GitHub Pages site about technology, faith, the outdoors, and the projects that make everyday life better.
+A personal GitHub Pages site about technology, the outdoors, and the projects that make everyday life better.
 
 ## Local preview
 

@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Articles
-description: Notes on technology, faith, and the shape of an ordinary life.
+description: Notes on technology and the shape of an ordinary life.
 ---
 
 <div class="page-header">
   <p class="eyebrow">Notes</p>
   <h1>Ideas worth returning to.</h1>
-  <p class="lead">A growing collection of short reflections about making things, following Christ, and noticing the world more carefully.</p>
+  <p class="lead">A growing collection of short reflections about making things and noticing the world more carefully.</p>
 </div>
 
 <div class="card-grid">
